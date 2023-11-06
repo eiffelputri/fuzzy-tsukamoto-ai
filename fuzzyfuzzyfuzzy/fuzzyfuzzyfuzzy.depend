@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687945911 source:c:\users\asus\downloads\fuzzyfuzzyfuzzy\main.cpp
+	<iostream>
+
+1688446512 source:c:\users\asus\downloads\ai\fuzzyfuzzyfuzzy\main.cpp
+	<iostream>
+
