@@ -178,7 +178,7 @@ void defuzzifikasi() {
     double pembilang = 0.0;
     double penyebut = 0.0;
 
-    // pembilang n penyebut
+    // pembilang dan penyebut
     for (int i = 0; i < 4; i++) {
         pembilang += bKecil[i] * sKecil[i];
         penyebut += bKecil[i];
